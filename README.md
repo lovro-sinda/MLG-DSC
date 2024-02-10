@@ -20,9 +20,6 @@ If you find our repository useful, please consider citing "Multilayer Graph Appr
       primaryClass={cs.CV}
     }
     
-   @misc{sindičić2024multilayer,
-      
-}
 
 ## Acknowledgements
 
