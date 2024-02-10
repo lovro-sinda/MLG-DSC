@@ -20,7 +20,7 @@ If you find our repository useful, please consider citing "Multilayer Graph Appr
         year={2018},
         doi = {https://doi.org/10.1016/j.patcog.2017.08.024}
     }
-   @misc{sindičić2024multilayer,
+   @article{sindičić2024multilayer,
       title={Multilayer Graph Approach to Deep Subspace Clustering}, 
       author={Lovro Sindičić and Ivica Kopriva},
       year={2024},
