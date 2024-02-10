@@ -9,7 +9,7 @@ MATLAB implementation of [Multilayer Graph Approach to Deep Subspace Clustering]
 
 ## Citing
 
-If you find our repository useful, please consider citing "Multilayer Graph Approach to Deep Subspace Clustering" by Lovro Sindicic and Ivica Kopriva.
+If you find our repository useful, please consider citing "Multilayer Graph Approach to Deep Subspace Clustering" by Lovro Sindičić and Ivica Kopriva.
 
     @misc{sindičić2024multilayer,
       title={Multilayer Graph Approach to Deep Subspace Clustering}, 
